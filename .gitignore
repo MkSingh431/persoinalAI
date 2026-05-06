@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+assistant_logs/
+reports/
+reminders.json

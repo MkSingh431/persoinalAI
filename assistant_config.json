@@ -1,0 +1,22 @@
+{
+  "assistant_name": "Personal AI",
+  "privacy_rules": [
+    "Never send messages automatically.",
+    "Ask before deleting, moving, or modifying sensitive files.",
+    "Keep action logs in assistant_logs/actions.jsonl."
+  ],
+  "sensitive_keywords": [
+    "aadhaar",
+    "account",
+    "bank",
+    "credential",
+    "cvv",
+    "otp",
+    "pan",
+    "passport",
+    "password",
+    "secret",
+    "tax",
+    "upi"
+  ]
+}
